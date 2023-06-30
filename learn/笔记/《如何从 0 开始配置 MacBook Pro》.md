@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [安装 ClashX，你懂的](#%E5%AE%89%E8%A3%85-clashx%E4%BD%A0%E6%87%82%E7%9A%84)
+- [安装 App 和 Cli 工具](#%E5%AE%89%E8%A3%85-app-%E5%92%8C-cli-%E5%B7%A5%E5%85%B7)
+- [准备本地目录](#%E5%87%86%E5%A4%87%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95)
+- [配置 App](#%E9%85%8D%E7%BD%AE-app)
+- [系统设置](#%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE)
+- [参考](#%E5%8F%82%E8%80%83)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 2023/02/08 
 
@@ -596,7 +609,7 @@ Capture Area 的快捷键是「F19 + 6」。
 
 7、Sharing。只留「AirPlay Receiver」即可，同时可以改下 computer name。
 
-8、Security & Privacy。把「Use Apple Watch to unlock」打开。
+8、Security & Privacy。把「Use Apple Watch to unlock」打开。ΩΩΩΩΩΩΩ
 
 9、Notification。不必要的全关掉，我只开了 Calendar、Find By、Reminders 和 Wallet。
 
